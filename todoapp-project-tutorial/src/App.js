@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import styled from 'styled-components';
-import { useSelector, useDispatch } from 'react-redux';
+// import styled from 'styled-components';
+// import { useSelector, useDispatch } from 'react-redux';
 
 function App() {
   return (
