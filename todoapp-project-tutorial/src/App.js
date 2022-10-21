@@ -1,7 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-// import styled from 'styled-components';
+import styled from 'styled-components';
 // import { useSelector, useDispatch } from 'react-redux';
+
+const ChangeButton = styled.button`
+  width: 5vw;
+  height: 3vh;
+`;
 
 function App() {
   return (
@@ -17,7 +22,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <ChangeButton> Learn React </ChangeButton>
         </a>
       </header>
     </div>
