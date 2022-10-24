@@ -4,7 +4,7 @@ import styled from 'styled-components';
 // import { useSelector, useDispatch } from 'react-redux';
 
 const ChangeButton = styled.button`
-  width: 5vw;
+  width: 10vw;
   height: 3vh;
 `;
 
@@ -13,9 +13,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
