@@ -6,6 +6,8 @@ import styled from 'styled-components';
 const ChangeButton = styled.button`
   width: 10vw;
   height: 3vh;
+  color: white;
+  background-color: aqua;
 `;
 
 function App() {
