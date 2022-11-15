@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import styled from 'styled-components';
 // import { useSelector, useDispatch } from 'react-redux';
+// redux not use
 
 const ChangeButton = styled.button`
   width: 10vw;
