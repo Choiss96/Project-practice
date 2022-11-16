@@ -4,6 +4,7 @@ import styled from 'styled-components';
 // import { useSelector, useDispatch } from 'react-redux';
 // redux not use
 
+//버튼 스타일(styled-components)
 const ChangeButton = styled.button`
   width: 10vw;
   height: 3vh;
