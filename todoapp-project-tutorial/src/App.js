@@ -17,6 +17,7 @@ const ChangeButton = styled.button`
   /* align-items: center; */
 `;
 
+// 버튼 적용
 function App() {
   return (
     <div className="App">
