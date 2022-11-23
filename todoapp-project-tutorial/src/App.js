@@ -5,7 +5,6 @@ import styled from 'styled-components';
 // import { redirect } from 'react-router-dom';
 // import React from 'react';
 // import { useSelector, useDispatch } from 'react-redux';
-// redux not use
 
 //버튼 스타일(styled-components)
 const ChangeButton = styled.button`
