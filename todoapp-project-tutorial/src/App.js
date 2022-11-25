@@ -19,7 +19,6 @@ const ChangeButton = styled.button`
   /* justify-items: auto; */
 `;
 
-// 버튼 적용
 function App() {
   return (
     <div className="App">
