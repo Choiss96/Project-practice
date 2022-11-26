@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import styled from 'styled-components';
 // import { Route } from 'react-router-dom';
-// import { redirect } from 'react-router-dom';
 // import React from 'react';
 // import { useSelector, useDispatch } from 'react-redux';
 
