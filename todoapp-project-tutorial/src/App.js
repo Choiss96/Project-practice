@@ -10,7 +10,7 @@ const ChangeButton = styled.button`
   height: 3vh;
   color: black;
   background-color: white;
-  /* display: flex; */
+  display: flex;
   /* justify-content: center; */
   /* align-items: center; */
   /* align-items: center; */
