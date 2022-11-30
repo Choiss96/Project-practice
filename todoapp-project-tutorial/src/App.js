@@ -13,7 +13,6 @@ const ChangeButton = styled.button`
   /* display: flex; */
   /* justify-content: center; */
   /* align-items: center; */
-  /* align-items: center; */
   /* justify-items: auto; */
 `;
 
