@@ -3,7 +3,6 @@ import './App.css';
 import styled from 'styled-components';
 // import React from 'react';
 // import { Route } from 'react-router-dom';
-// import { useSelector, useDispatch } from 'react-redux';
 
 const ChangeButton = styled.button`
   width: 10vw;
