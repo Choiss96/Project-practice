@@ -8,7 +8,6 @@ const ChangeButton = styled.button`
   height: 3vh;
   color: black;
   background-color: white;
-  /* display: flex; */
 `;
 
 function App() {
