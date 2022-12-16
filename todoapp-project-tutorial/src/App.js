@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import styled from 'styled-components';
+import React from 'react';
 
 const ChangeButton = styled.button`
   width: 10vw;
