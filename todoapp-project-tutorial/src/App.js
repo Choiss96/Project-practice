@@ -11,7 +11,6 @@ const ChangeButton = styled.button`
   /* display: flex; */
   /* align-items: center; */
   /* justify-content: center; */
-  /* align-self: auto; */
 `;
 
 function App() {
