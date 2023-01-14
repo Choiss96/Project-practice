@@ -9,6 +9,7 @@ const ChangeButton = styled.button`
   color: black;
   background-color: white;
   /* display: flex; */
+  /* align-items: center; */
 `;
 
 function App() {
